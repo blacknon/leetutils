@@ -4,7 +4,6 @@
 
 
 import os
-import platform
 
 import setuptools
 import sphinx.ext.apidoc
